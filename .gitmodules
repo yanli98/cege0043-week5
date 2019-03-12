@@ -1,0 +1,12 @@
+[submodule "ucesilx/www/cege0043-jsReference"]
+	path = ucesilx/www/cege0043-jsReference
+	url = https://github.com/yanli98/cege0043-jsReference.git
+[submodule "ucesilx/www/js"]
+	path = ucesilx/www/js
+	url = https://github.com/yanli98/cege0043-jsReference
+[submodule "ucesilx/www/css"]
+	path = ucesilx/www/css
+	url = https://github.com/yanli98/cege0043-cssReference
+[submodule "ucesilx/www/images"]
+	path = ucesilx/www/images
+	url = https://github.com/yanli98/cege0043-imagesReference
