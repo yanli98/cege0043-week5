@@ -36,6 +36,9 @@
     },
     "cordova-plugin-network-information": {
       "PACKAGE_NAME": "week5"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "week5"
     }
   },
   "dependent_plugins": {
