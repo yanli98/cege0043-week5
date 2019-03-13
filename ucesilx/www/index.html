@@ -29,6 +29,8 @@
 			<link rel="stylesheet" href="./css/ionicons.min.css">
 			<link rel="stylesheet" href="./css/leaflet.awesome-markers.css">
 			<script src="./js/leaflet.awesome-markers.js"></script>
+			<!-- the following allows an html file to be copied/pasted in a div -->
+			<script src="https://www.w3schools.com/lib/w3.js"></script>
 	
 	
     <meta charset="utf-8">
@@ -140,6 +142,7 @@
             <div id="ucllogo" name="ucllogo">div goes here </div>
 			<div id="mapid" style="width: 600px; height: 400px;"></div>
 			<div id="ajaxtest" style="width: 1600px; height: 20px;"></div>
+			<div w3-include-html="createForm.html"></div>
           </div>
         </div>
       </main>
@@ -152,6 +155,7 @@
 	<script src='js/startup.js'></script>
 	<script src='js/utilities.js'></script>
 	<script src='js/AJAX.js'></script>
+	<script src="js/uploadData.js"></script>
 	
 	<script>startup(); </script>
   </body>
